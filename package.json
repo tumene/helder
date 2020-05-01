@@ -1,0 +1,14 @@
+{
+    "name": "helderweb",
+    "description": "Helder Technology Systems official webpage",
+    "version": "0.0.1",
+    "private": true,
+    "author": "Babatunde Olowojolu",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "hbs": "^4.1.1"
+    }
+}
