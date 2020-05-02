@@ -5,7 +5,7 @@
     "private": true,
     "author": "Babatunde Olowojolu",
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.hbs"
     },
     "dependencies": {
         "express": "^4.17.1",
